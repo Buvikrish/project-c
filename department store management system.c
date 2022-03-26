@@ -1,4 +1,4 @@
-//LEARNPROGRAMO-PROGRAMMING MADE SIMPLE
+//progm on departmental store
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
